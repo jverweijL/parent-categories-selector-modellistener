@@ -1,7 +1,5 @@
 package com.liferay.demo.modellistener;
 
-
-
 import com.liferay.asset.kernel.model.AssetCategory;
 import com.liferay.asset.kernel.model.AssetEntry;
 import com.liferay.asset.kernel.service.AssetCategoryLocalService;
